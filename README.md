@@ -8,4 +8,5 @@ Insights:
 4) Amazon, Flipcart and Myntra are Maximum Controbuting
    
 Conclution:
+
 Target Women Customers of age group living in Maharasthra , Karnataka and Uttar Pradesh BY Showing ads/offers/coupons on  Amazon, Flipcart and Myntra.
